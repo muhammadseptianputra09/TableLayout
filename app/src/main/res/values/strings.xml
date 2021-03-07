@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TableLayout</string>
+    <string name="tnama">NAMA</string>
+    <string name="tumur">UMUR</string>
+    <string name="tANAK">ANAK KE-</string>
+    <string name="tnama1">Retno Dyah Aryani</string>
+    <string name="tumur1">27 Tahun</string>
+    <string name="tANAK1">1</string>
+    <string name="tnama2">Tiara Haridanti</string>
+    <string name="tumur2">25 Tahun</string>
+    <string name="tANAK2">2</string>
+    <string name="tnama3">M Septian Putra</string>
+    <string name="tumur3">21 Tahun</string>
+    <string name="tANAK3">3</string>
+
+</resources>
